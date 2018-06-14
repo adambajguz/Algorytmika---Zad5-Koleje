@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/Graph.c
+Graph.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/Graph.h
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/Graph.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+stdint.h
+-
+input.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/input.h
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/dijkstra.c
+dijkstra.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/dijkstra.h
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/dijkstra.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+Graph.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/Graph.h
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/input.c
+input.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/input.h
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/input.h
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+math.h
+-
+Graph.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/Graph.h
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/main.c
+stdio.h
+-
+stdint.h
+-
+time.h
+-
+input.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/input.h
+dijkstra.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/dijkstra.h
+

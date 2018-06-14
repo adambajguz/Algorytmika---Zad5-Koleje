@@ -1,0 +1,4 @@
+C:\Users\Admin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\173.4301.33\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "X:\Moje dokumenty\Dokumenty Adama\Dokumenty PB\Semestr III - prace\Algorytmy i struktury danych\Ps\Ps5\PS5_ZAD3"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps5/PS5_ZAD3/cmake-build-debug

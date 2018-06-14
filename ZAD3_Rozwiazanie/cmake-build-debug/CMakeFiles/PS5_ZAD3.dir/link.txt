@@ -1,0 +1,3 @@
+C:\Users\Admin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\173.4301.33\bin\cmake\bin\cmake.exe -E remove -f CMakeFiles\PS5_ZAD3.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\PS5_ZAD3.dir/objects.a @CMakeFiles\PS5_ZAD3.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\PS5_ZAD3.dir/objects.a -Wl,--no-whole-archive  -o PS5_ZAD3.exe -Wl,--out-implib,libPS5_ZAD3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PS5_ZAD3.dir\linklibs.rsp
